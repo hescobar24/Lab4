@@ -1,6 +1,13 @@
 li{
     display:inline;
     width: 75%;
-    margin: 50em;
+    margin: 50px;
     list-style-type:none;
+}
+ul {
+    text-align:center;
+}
+header{
+    font-size: 75px;
+    font-family: helvetica,sans-serif;
 }
