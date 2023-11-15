@@ -1,4 +1,6 @@
 li{
     display:inline;
-    text-align: center;
+    width: 75%;
+    margin: 50em;
+    list-style-type:none;
 }
