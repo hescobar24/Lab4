@@ -1,13 +1,16 @@
-li{
+li.nav{
     display:inline;
-    width: 75%;
-    margin: 50px;
+    margin: 5vw;
     list-style-type:none;
 }
-ul {
-    text-align:center;
+#brown {
+    border: solid lightblue 5px; 
+    width: 80%;
+    margin:auto;
+    text-align: center;
 }
 header{
-    font-size: 75px;
+    font-size: 7.5vw;
     font-family: helvetica,sans-serif;
+    text-align:center
 }
