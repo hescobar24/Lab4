@@ -14,3 +14,6 @@ header{
     font-family: helvetica,sans-serif;
     text-align:center
 }
+p{
+   font-size: 1vw; 
+}
