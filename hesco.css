@@ -50,6 +50,8 @@ p{
 footer{
     font-size: 2vw;
     font-family: "DM Sans", Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 2vw;
 }
 #lucky{
     color: rgb(33, 177, 122);
