@@ -9,7 +9,7 @@ li.nav{
 }
 header{
     font-size: 8vw;
-    font-family: light helvetica,sans-serif;
+    font-family: helvetica,sans-serif;
     text-align:center;
     color: white;
     background-color:rgb(0, 0, 0); 
@@ -36,12 +36,12 @@ header{
     margin-top: 1%;
 }
 .clover{
-    font-family: "helvetica";
+    font-family: helvetica, sans-serif;
     font-size: 3.5vw;
     margin-bottom: 2%;
 }
 p{
-    font-family: "DM Sans", Arial, Helvetica, sans-serif;;}
+    font-family: "DM Sans", Arial, Helvetica, sans-serif;}
 .white{
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 0.25%;
